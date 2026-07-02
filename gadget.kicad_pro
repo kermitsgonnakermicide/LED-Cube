@@ -648,8 +648,8 @@
         "uuid": "e898dcee-7a99-4d9e-a490-61e1f87243f5"
       },
       {
-        "filename": "v2.kicad_sch",
-        "name": "v2",
+        "filename": "gadget.kicad_sch",
+        "name": "gadget",
         "uuid": "b6cb9ce9-fcf7-4a9f-83f6-26f2fad9d5d5"
       }
     ],

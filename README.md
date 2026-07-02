@@ -13,3 +13,7 @@ assembly guide </br>
 <img width="590" height="353" alt="image" src="https://github.com/user-attachments/assets/2fb010e2-e8e9-4175-b92d-9610bc7cd730" />
 
 > schematic
+
+<img width="400" height="415" alt="image" src="https://github.com/user-attachments/assets/61995ead-a940-475f-8d84-4a83f3f9cc56" />
+
+> 3d
